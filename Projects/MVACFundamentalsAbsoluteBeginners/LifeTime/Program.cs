@@ -11,7 +11,7 @@ namespace ObjectLifeTime
         static void Main(string[] args)
         {
             Car myCar = new Car();
-            myCar.Make = "Misjdsalkd";
+            myCar.Make = "Chevrolet";
 
             Car mySecondCar = new Car("Fiat", "Uno", "red", 2012);
             Car myThirdCar = new Car

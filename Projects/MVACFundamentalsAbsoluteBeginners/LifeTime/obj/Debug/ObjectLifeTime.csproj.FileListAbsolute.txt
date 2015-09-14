@@ -10,3 +10,9 @@ C:\Users\JEAN\Documents\Visual Studio 2015\Projects\MVACFundamentalsAbsoluteBegi
 C:\Users\JEAN\Documents\Visual Studio 2015\Projects\MVACFundamentalsAbsoluteBeginners\LifeTime\bin\Debug\LifeTime.exe
 C:\Users\JEAN\Documents\Visual Studio 2015\Projects\MVACFundamentalsAbsoluteBeginners\LifeTime\bin\Debug\LifeTime.pdb
 C:\Users\JEAN\Documents\Visual Studio 2015\Projects\MVACFundamentalsAbsoluteBeginners\LifeTime\obj\Debug\ObjectLifeTime.csprojResolveAssemblyReference.cache
+C:\Users\jtroiani\Desktop\MVACFundamentalsAbsoluteBeginners\Projects\MVACFundamentalsAbsoluteBeginners\LifeTime\bin\Debug\LifeTime.exe.config
+C:\Users\jtroiani\Desktop\MVACFundamentalsAbsoluteBeginners\Projects\MVACFundamentalsAbsoluteBeginners\LifeTime\obj\Debug\LifeTime.exe
+C:\Users\jtroiani\Desktop\MVACFundamentalsAbsoluteBeginners\Projects\MVACFundamentalsAbsoluteBeginners\LifeTime\obj\Debug\LifeTime.pdb
+C:\Users\jtroiani\Desktop\MVACFundamentalsAbsoluteBeginners\Projects\MVACFundamentalsAbsoluteBeginners\LifeTime\bin\Debug\LifeTime.exe
+C:\Users\jtroiani\Desktop\MVACFundamentalsAbsoluteBeginners\Projects\MVACFundamentalsAbsoluteBeginners\LifeTime\bin\Debug\LifeTime.pdb
+C:\Users\jtroiani\Desktop\MVACFundamentalsAbsoluteBeginners\Projects\MVACFundamentalsAbsoluteBeginners\LifeTime\obj\Debug\ObjectLifeTime.csprojResolveAssemblyReference.cache

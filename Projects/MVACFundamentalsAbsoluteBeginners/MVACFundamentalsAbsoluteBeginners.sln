@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleClasses", "SimpleClas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectLifeTime", "LifeTime\ObjectLifeTime.csproj", "{689ECE42-0B45-4100-925C-B3CA39A5A40D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingInheritance", "UnderstandingInheritance\UnderstandingInheritance.csproj", "{22474570-8805-4711-921D-C59724FD5BBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{689ECE42-0B45-4100-925C-B3CA39A5A40D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{689ECE42-0B45-4100-925C-B3CA39A5A40D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{689ECE42-0B45-4100-925C-B3CA39A5A40D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22474570-8805-4711-921D-C59724FD5BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22474570-8805-4711-921D-C59724FD5BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22474570-8805-4711-921D-C59724FD5BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22474570-8805-4711-921D-C59724FD5BBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
