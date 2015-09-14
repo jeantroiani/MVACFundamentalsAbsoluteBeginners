@@ -1,0 +1,12 @@
+C:\Users\JEAN\documents\visual studio 2015\Projects\Strings\LifeTime\bin\Debug\LifeTime.exe.config
+C:\Users\JEAN\documents\visual studio 2015\Projects\Strings\LifeTime\obj\Debug\ObjectLifeTime.csprojResolveAssemblyReference.cache
+C:\Users\JEAN\documents\visual studio 2015\Projects\Strings\LifeTime\bin\Debug\LifeTime.exe
+C:\Users\JEAN\documents\visual studio 2015\Projects\Strings\LifeTime\bin\Debug\LifeTime.pdb
+C:\Users\JEAN\documents\visual studio 2015\Projects\Strings\LifeTime\obj\Debug\LifeTime.exe
+C:\Users\JEAN\documents\visual studio 2015\Projects\Strings\LifeTime\obj\Debug\LifeTime.pdb
+C:\Users\JEAN\Documents\Visual Studio 2015\Projects\MVACFundamentalsAbsoluteBeginners\LifeTime\bin\Debug\LifeTime.exe.config
+C:\Users\JEAN\Documents\Visual Studio 2015\Projects\MVACFundamentalsAbsoluteBeginners\LifeTime\obj\Debug\LifeTime.exe
+C:\Users\JEAN\Documents\Visual Studio 2015\Projects\MVACFundamentalsAbsoluteBeginners\LifeTime\obj\Debug\LifeTime.pdb
+C:\Users\JEAN\Documents\Visual Studio 2015\Projects\MVACFundamentalsAbsoluteBeginners\LifeTime\bin\Debug\LifeTime.exe
+C:\Users\JEAN\Documents\Visual Studio 2015\Projects\MVACFundamentalsAbsoluteBeginners\LifeTime\bin\Debug\LifeTime.pdb
+C:\Users\JEAN\Documents\Visual Studio 2015\Projects\MVACFundamentalsAbsoluteBeginners\LifeTime\obj\Debug\ObjectLifeTime.csprojResolveAssemblyReference.cache
