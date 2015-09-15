@@ -1,0 +1,5 @@
+C:\Users\jtroiani\Desktop\MVACFundamentalsAbsoluteBeginners\Projects\MVACFundamentalsAbsoluteBeginners\SimpleClasses\bin\Release\SimpleClasses.exe.config
+C:\Users\jtroiani\Desktop\MVACFundamentalsAbsoluteBeginners\Projects\MVACFundamentalsAbsoluteBeginners\SimpleClasses\bin\Release\SimpleClasses.exe
+C:\Users\jtroiani\Desktop\MVACFundamentalsAbsoluteBeginners\Projects\MVACFundamentalsAbsoluteBeginners\SimpleClasses\bin\Release\SimpleClasses.pdb
+C:\Users\jtroiani\Desktop\MVACFundamentalsAbsoluteBeginners\Projects\MVACFundamentalsAbsoluteBeginners\SimpleClasses\obj\Release\SimpleClasses.exe
+C:\Users\jtroiani\Desktop\MVACFundamentalsAbsoluteBeginners\Projects\MVACFundamentalsAbsoluteBeginners\SimpleClasses\obj\Release\SimpleClasses.pdb

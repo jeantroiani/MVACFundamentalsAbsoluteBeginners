@@ -1,0 +1,5 @@
+C:\Users\jtroiani\Desktop\MVACFundamentalsAbsoluteBeginners\Projects\MVACFundamentalsAbsoluteBeginners\DateAndTime\bin\Release\DateAndTime.exe.config
+C:\Users\jtroiani\Desktop\MVACFundamentalsAbsoluteBeginners\Projects\MVACFundamentalsAbsoluteBeginners\DateAndTime\bin\Release\DateAndTime.exe
+C:\Users\jtroiani\Desktop\MVACFundamentalsAbsoluteBeginners\Projects\MVACFundamentalsAbsoluteBeginners\DateAndTime\bin\Release\DateAndTime.pdb
+C:\Users\jtroiani\Desktop\MVACFundamentalsAbsoluteBeginners\Projects\MVACFundamentalsAbsoluteBeginners\DateAndTime\obj\Release\DateAndTime.exe
+C:\Users\jtroiani\Desktop\MVACFundamentalsAbsoluteBeginners\Projects\MVACFundamentalsAbsoluteBeginners\DateAndTime\obj\Release\DateAndTime.pdb

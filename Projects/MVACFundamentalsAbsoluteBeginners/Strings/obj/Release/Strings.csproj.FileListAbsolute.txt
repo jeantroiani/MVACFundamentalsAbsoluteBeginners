@@ -1,0 +1,5 @@
+C:\Users\jtroiani\Desktop\MVACFundamentalsAbsoluteBeginners\Projects\MVACFundamentalsAbsoluteBeginners\Strings\bin\Release\Strings.exe.config
+C:\Users\jtroiani\Desktop\MVACFundamentalsAbsoluteBeginners\Projects\MVACFundamentalsAbsoluteBeginners\Strings\bin\Release\Strings.exe
+C:\Users\jtroiani\Desktop\MVACFundamentalsAbsoluteBeginners\Projects\MVACFundamentalsAbsoluteBeginners\Strings\bin\Release\Strings.pdb
+C:\Users\jtroiani\Desktop\MVACFundamentalsAbsoluteBeginners\Projects\MVACFundamentalsAbsoluteBeginners\Strings\obj\Release\Strings.exe
+C:\Users\jtroiani\Desktop\MVACFundamentalsAbsoluteBeginners\Projects\MVACFundamentalsAbsoluteBeginners\Strings\obj\Release\Strings.pdb

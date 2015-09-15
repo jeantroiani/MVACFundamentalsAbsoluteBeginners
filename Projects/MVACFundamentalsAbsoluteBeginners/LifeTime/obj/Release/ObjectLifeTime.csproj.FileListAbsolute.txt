@@ -1,0 +1,5 @@
+C:\Users\jtroiani\Desktop\MVACFundamentalsAbsoluteBeginners\Projects\MVACFundamentalsAbsoluteBeginners\LifeTime\bin\Release\LifeTime.exe.config
+C:\Users\jtroiani\Desktop\MVACFundamentalsAbsoluteBeginners\Projects\MVACFundamentalsAbsoluteBeginners\LifeTime\bin\Release\LifeTime.exe
+C:\Users\jtroiani\Desktop\MVACFundamentalsAbsoluteBeginners\Projects\MVACFundamentalsAbsoluteBeginners\LifeTime\bin\Release\LifeTime.pdb
+C:\Users\jtroiani\Desktop\MVACFundamentalsAbsoluteBeginners\Projects\MVACFundamentalsAbsoluteBeginners\LifeTime\obj\Release\LifeTime.exe
+C:\Users\jtroiani\Desktop\MVACFundamentalsAbsoluteBeginners\Projects\MVACFundamentalsAbsoluteBeginners\LifeTime\obj\Release\LifeTime.pdb

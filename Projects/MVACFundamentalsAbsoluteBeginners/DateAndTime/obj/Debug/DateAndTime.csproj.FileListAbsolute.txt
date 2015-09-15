@@ -4,3 +4,9 @@ C:\Users\JEAN\documents\visual studio 2015\Projects\Strings\DateAndTime\bin\Debu
 C:\Users\JEAN\documents\visual studio 2015\Projects\Strings\DateAndTime\obj\Debug\DateAndTime.exe
 C:\Users\JEAN\documents\visual studio 2015\Projects\Strings\DateAndTime\obj\Debug\DateAndTime.pdb
 C:\Users\JEAN\documents\visual studio 2015\Projects\Strings\DateAndTime\obj\Debug\DateAndTime.csprojResolveAssemblyReference.cache
+C:\Users\jtroiani\Desktop\MVACFundamentalsAbsoluteBeginners\Projects\MVACFundamentalsAbsoluteBeginners\DateAndTime\bin\Debug\DateAndTime.exe.config
+C:\Users\jtroiani\Desktop\MVACFundamentalsAbsoluteBeginners\Projects\MVACFundamentalsAbsoluteBeginners\DateAndTime\bin\Debug\DateAndTime.exe
+C:\Users\jtroiani\Desktop\MVACFundamentalsAbsoluteBeginners\Projects\MVACFundamentalsAbsoluteBeginners\DateAndTime\bin\Debug\DateAndTime.pdb
+C:\Users\jtroiani\Desktop\MVACFundamentalsAbsoluteBeginners\Projects\MVACFundamentalsAbsoluteBeginners\DateAndTime\obj\Debug\DateAndTime.csprojResolveAssemblyReference.cache
+C:\Users\jtroiani\Desktop\MVACFundamentalsAbsoluteBeginners\Projects\MVACFundamentalsAbsoluteBeginners\DateAndTime\obj\Debug\DateAndTime.exe
+C:\Users\jtroiani\Desktop\MVACFundamentalsAbsoluteBeginners\Projects\MVACFundamentalsAbsoluteBeginners\DateAndTime\obj\Debug\DateAndTime.pdb
